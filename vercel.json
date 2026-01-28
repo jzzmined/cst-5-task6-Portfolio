@@ -1,6 +1,7 @@
 {
     "rewrites": [
-        { "source": "/(.*)", "desitination": "/portfolio.html"}
+        {"source": "/(.*)", "desitination": "/portfolio.html"}
     ]
 }
+
 
